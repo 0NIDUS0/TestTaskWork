@@ -9,3 +9,7 @@ https://fakerapi.it/api/v1/images?_quantity=30&_type=any&_height=300
 
 
 ![Первая форма](/images/Form1.png)
+
+![Вторая форма](/images/Form2.png)
+
+![Вторая форма после изменения URL](/images/ChangeURL.png)
