@@ -8,7 +8,7 @@ https://fakerapi.it/api/v1/images?_quantity=30&_type=any&_height=300
 К второй форме добавлен TexBox снизу, чтобы изменять URL изображения.
 
 
-![Первая форма](/images/Form1.png)
+<center>![Первая форма](/images/Form1.png)</center>
 
 ![Вторая форма](/images/Form2.png)
 
