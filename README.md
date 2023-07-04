@@ -6,10 +6,12 @@ https://fakerapi.it/api/v1/images?_quantity=30&_type=any&_height=300
 Во вторую форму передается объект, содержащий все данные необходимые для отображения. 
 Для связывания данных и элементов формы использована технология DataBinding.
 К второй форме добавлен TexBox снизу, чтобы изменять URL изображения.
-
-
-<center>![Первая форма](/images/Form1.png)</center>
-
-![Вторая форма](/images/Form2.png)
-
-![Вторая форма после изменения URL](/images/ChangeURL.png)
+<p align="center">
+<image src=/images/Form1.png>
+</p>
+<p align="center">
+<image src=/images/Form2.png>
+</p>
+<p align="center">
+<image src=/images/ChangeURL.png>
+</p>
